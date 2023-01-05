@@ -2,7 +2,8 @@
 
 ![Image](./images/desk-view.png)
 
-![Image](./images/Mobile-view.png)
+
+<img src="./images/Mobile-view.png" alt="mobile-view" width="250" align="center"/>
 
 
 
