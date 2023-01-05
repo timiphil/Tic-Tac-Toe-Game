@@ -42,5 +42,5 @@ Continue exchanging actions until one player draws a row of three symbols, or un
 
 ---
 # Conclusion
-I have learnt about the minimax algorithm, its mechanism, limitations, and looking forward on how to improve it and building other minimax algorithm games. 
+I have learnt about the minimax algorithm, its mechanism, limitations, and looking forward on how to improve it, building and customizing other various games. 
 
