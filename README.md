@@ -21,3 +21,11 @@ Have the second player go second. After the first player has finished, the secon
 Continue exchanging actions until one player draws a row of three symbols, or until there is no winner. Tic-tac-toe is won by the first player to draw three of their symbols consecutively, whether they are drawn in a horizontal, vertical, or diagonal pattern. However, if both players play according to their best course of action, there is a significant likelihood that no one will succeed because you will have eliminated all of your opponents' chances to form a row of three.
 
 ---
+
+## Links
+
+[Link to Portfolio Website](https://timiphil.github.io/MyPortfolio/)
+
+[Link to Play Tic-Tac-Toe-Game](https://timiphil.github.io/Tic-Tac-Toe-Game/)
+
+
