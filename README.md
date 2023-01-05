@@ -40,3 +40,7 @@ Continue exchanging actions until one player draws a row of three symbols, or un
 ![GitHub forks](https://img.shields.io/github/forks/{Timiphil}/{Tic-Tac-Toe-Game}?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/{Timiphil}/{Tic-Tac-Toe-Game}?style=social)
 
+---
+# Conclusion
+I have learnt about the minimax algorithm, its mechanism, limitations, and looking forward on how to improve it and building other minimax algorithm games. 
+
