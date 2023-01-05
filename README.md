@@ -2,6 +2,8 @@
 
 ![Image](./images/desk-view.png)
 
+![Image](./images/Mobile-view.png)
+
 
 
 Building a Tic-tac-toe game for human to human and AI to human. This is Two-player turn-based games that is used in Chess, Backgammon, and Mancala, where Two players plays against each other until one of them wins. 
