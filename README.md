@@ -31,4 +31,12 @@ Continue exchanging actions until one player draws a row of three symbols, or un
 
 [Link to Play Tic-Tac-Toe-Game](https://timiphil.github.io/Tic-Tac-Toe-Game/)
 
+---
+## Labels
+![GitHub all releases](https://img.shields.io/github/downloads/{Timiphil}/{repo-name}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
+![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
