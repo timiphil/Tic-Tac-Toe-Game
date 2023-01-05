@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&family=Roboto+Serif:opsz,wght@8..144,800&family=Trocchi&display=swap");
 * {
   box-sizing: border-box;
   padding: 0;
@@ -50,8 +51,31 @@ body {
   align-items: center;
   width: 50vmin;
   height: 50vmin;
+  border-radius: 5px;
 }
-.container div {
+.container:hover {
+    -moz-box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+    transform: scale(1.05);
+    -webkit-box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+    box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+}
+.container .normal {
+  background: #98f5e1;
+  width: 40vmin;
+  height: 20vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.container .normal:hover {
+    -moz-box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+    transform: scale(1.05);
+    -webkit-box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+    box-shadow: 0px 8px 24px hsl(185deg 74% 27%);
+}
+.container .ai {
   background: rgba(0, 200, 255, 1);
   width: 40vmin;
   height: 20vmin;
@@ -60,6 +84,12 @@ body {
   align-items: center;
   font-size: 30px;
   border-radius: 10px;
+}
+.container .ai:hover {
+    -moz-box-shadow: 0px 8px 24px hsl(220deg 74% 40%);
+    transform: scale(1.05);
+    -webkit-box-shadow: 0px 8px 24px hsl(220deg 74% 27%);
+    box-shadow: 0px 8px 24px hsl(220deg 74% 27%);
 }
 
 .popup {
@@ -76,4 +106,21 @@ body {
     0 0 25px #0073e6,
     0 0 30px #0073e6,
     0 0 35px #0073e6;
+}
+
+/* styling the attribution */
+.attribution {
+  font-size: 1.2rem;
+  color: rgb(0, 98, 255);
+  position: absolute;
+  top: 85%;
+}
+.attribution a {
+  color: cyan;
+  cursor: pointer;
+  transition: color 0.4s ease-in-out;
+  text-decoration: none;
+}
+.attribution a:hover {
+  color: orange;
 }
