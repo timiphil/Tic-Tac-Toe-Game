@@ -1,9 +1,11 @@
 # Tic-Tac-Toe-Game
-
-![Image](./images/desk-view.png)
-
 <div align="center">
+
+  ![Image](./images/desk-view.png)
+
+
   <img src="./images/Mobile-view.png" alt="mobile-view" width="250" />
+  
 </div>
 
 
