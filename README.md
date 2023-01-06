@@ -2,9 +2,9 @@
 
 ![Image](./images/desk-view.png)
 
-
-<img src="./images/Mobile-view.png" alt="mobile-view" width="250" align="center"/>
-
+<div align="center">
+  <img src="./images/Mobile-view.png" alt="mobile-view" width="250" />
+</div>
 
 
 Building a Tic-tac-toe game for human to human and AI to human. This is Two-player turn-based games that is used in Chess, Backgammon, and Mancala, where Two players plays against each other until one of them wins. 
@@ -21,7 +21,9 @@ Tic-tac-toe is a fun game that you can play any time and anywhere. Two players p
 
 Have the second player go second. After the first player has finished, the second player should put down his symbol, which will be distinct from the first player's symbol. The second player has the option of attempting to prevent the first player from forming a row of three or concentrating on forming their own row of three. If possible, the player can perform both.
 
-<img src="./images/win-game.png" alt="win-game" width="250" align="right"/>
+<div align="center">
+  <img src="./images/win-game.png" alt="win-game" width="250"/>
+</div>
 
 Continue exchanging actions until one player draws a row of three symbols, or until there is no winner. Tic-tac-toe is won by the first player to draw three of their symbols consecutively, whether they are drawn in a horizontal, vertical, or diagonal pattern. However, if both players play according to their best course of action, there is a significant likelihood that no one will succeed because you will have eliminated all of your opponents' chances to form a row of three.
 
