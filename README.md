@@ -48,5 +48,5 @@ some of the challenges that I encounter when builiding this game are the runtime
 
 ---
 # Conclusion
-I have learnt about the __minimax__ algorithm, its mechanism, limitations, and looking forward on how to improve it by making it online multiplayer, building and customizing other various games. 
+I have learnt about the __minimax__ algorithm, its mechanism, limitations, and looking forward to improve it by making it online multiplayer, adding levels to it, building and customizing other various games. 
 
