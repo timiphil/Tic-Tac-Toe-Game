@@ -35,7 +35,7 @@ some of the challenges that I encounter when builiding this game are the runtime
 
 [Link to Portfolio Website](https://timiphil.github.io/MyPortfolio/)
 
-[Link to Play Tic-Tac-Toe-Game](https://timiphil.github.io/Tic-Tac-Toe-Game/)
+[Link to Play Tic-Tac-Toe-Game](https://ai-avatar-starter-production-2265.up.railway.app/)
 
 ---
 ## Labels
